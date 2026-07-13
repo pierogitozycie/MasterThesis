@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.parquet
+gotowe_dane/
+paysim.csv
+.DS_Store
